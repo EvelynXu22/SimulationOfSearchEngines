@@ -1,0 +1,25 @@
+Goint out links:
+mailto:fmoore@lyle.smu.edu
+http://lyle.smu.edu
+http://www.gedpage.com/soundex.html
+https://en.wikipedia.org/wiki/Noindex
+Non-text files links:
+http://freemanmoore.net/CS5337_syllabus.pdf
+http://freemanmoore.net/CS7337_syllabus.pdf
+http://freemanmoore.net/misc/IEEE-reimagining-search-june-2016.pdf
+http://freemanmoore.net/misc/IEEE-Spectrum-The-Dark-Dialect-Oct-2017.pdf
+http://freemanmoore.net/misc/mercator-article.pdf
+http://freemanmoore.net/misc/eg-figure6-12.xlsx
+http://freemanmoore.net/misc/eg-brown-cow.xlsx
+http://freemanmoore.net/misc/eg-little-lamb.xlsx
+http://freemanmoore.net/misc/letter_distribution.pptx
+http://freemanmoore.net/misc/article_google.pdf
+http://freemanmoore.net/misc/article_pagerank.pdf
+Broken links:
+http://freemanmoore.net/does_not_exist.htm
+Duplicated links:
+http://freemanmoore.net/index.htm
+http://freemanmoore.net/index_duplicate.htm
+http://freemanmoore.net/misc/count_letters_duplicate_file.txt
+http://freemanmoore.net/index.html
+http://freemanmoore.net/textfiles/extratextfiles/building2.txt
