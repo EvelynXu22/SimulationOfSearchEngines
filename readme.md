@@ -1,4 +1,4 @@
-# Project 2: Query engine implementation
+# Project: Query engine implementation
 
 Can also find PDF version in this folder.
 
